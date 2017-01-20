@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#test {
+  color: gray;
+}
+
+span {
+  border: 2px solid;
+  display: inline-block;
+  font-size: 2em;
+  width: 18%;
+  text-align: center;
+  color: gray;
+}
+
+body {
+  font-family: "Courier New";
+}
