@@ -6,3 +6,6 @@ A game I made on my phone during a car ride
 
 TO-DO:
 - fix glitch where other player can do his turn while player's turn isn't finished
+
+Play this on my website:
+crispbit.com/Games/Chain-Reaction/
